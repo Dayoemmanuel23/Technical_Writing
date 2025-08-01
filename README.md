@@ -115,4 +115,3 @@ This is a **Markdown** example.
 [Learn More](https://www.markdownguide.org)
 ```
 
-Would you like help with anything specific in Markdown? 😊
